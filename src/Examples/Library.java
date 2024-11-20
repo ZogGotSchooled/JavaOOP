@@ -1,7 +1,9 @@
+package Examples;
+
 import java.util.Scanner;
 
 
-public class Library {
+class Library {
     // ***** Scanner ***********************************//
     public static Scanner input = new Scanner(System.in);
     //nextInt()    nextDouble()    nextBoolean()    nextLine()    next()

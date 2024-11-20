@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7a9616e-2f33-4e5c-b000-002272a7f34f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/As1_Crops/As1_Crops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/As1_Crops/As1_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Ex3_Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Ex3_LawnMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/As1_Crops/As1_Crops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As1_Crops/As1_Crop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/As1_Crops/As1_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As1_Crops/As1_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/Ex3_Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Ex3_Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/Ex3_LawnMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Ex3_LawnMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Examples" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />

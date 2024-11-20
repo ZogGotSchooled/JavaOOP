@@ -38,8 +38,30 @@ public class Ex3_Client {
 
         doubloonsDebt += baseFee;
 
-        System.out.println("Your lawn was moved today today for a charge of $"+baseFee);
-        System.out.println("Your outstanding fees are $"+doubloonsDebt);
+        System.out.println(name+", your lawn was mowed today today for a charge of $"+baseFee);
+        System.out.println("and your outstanding fees are $"+doubloonsDebt+"\n");
     }
 
+    public void setHasDog(boolean hasDog) {
+        this.hasDog = hasDog;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void processPayment(double dollars){
+        doubloonsDebt -= dollars;
+        System.out.println(name + " You currently owe $"+doubloonsDebt);
+    }
+
+    public void delinquent(){
+        double interest = 5 + doubloonsDebt * 0.1;
+        System.out.println(name + " your payment is overdue, you have been charged interest of "+interest);
+        doubloonsDebt += interest;
+
+        if(doubloonsDebt > 500 && hasDog){
+            hasDog = false;
+        }
+    }
 }
