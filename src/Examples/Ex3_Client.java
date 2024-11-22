@@ -8,15 +8,16 @@ public class Ex3_Client {
     private double doubloonsDebt;
 
     //birth time!
-    public Ex3_Client(String setName, String add, int lawnSize, boolean dog){
+    public Ex3_Client(String setName, String add, int lawnSize, boolean dog, double debt){
         name = setName;
         address = add;
         schlongSize = lawnSize;
         hasDog = dog;
-        doubloonsDebt = 0;
+        doubloonsDebt = debt;
     }
 
     public String toString(){
+//        System.out.println("help me!");
         return name + " " + address + " " + schlongSize + " " + hasDog + " " + doubloonsDebt;
     }
 
@@ -63,5 +64,21 @@ public class Ex3_Client {
         if(doubloonsDebt > 500 && hasDog){
             hasDog = false;
         }
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public int getSchlongSize() {
+        return schlongSize;
+    }
+
+    public boolean isHasDog() {
+        return hasDog;
+    }
+
+    public double getDoubloonsDebt() {
+        return doubloonsDebt;
     }
 }
