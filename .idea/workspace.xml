@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7a9616e-2f33-4e5c-b000-002272a7f34f" name="Changes" comment="" />
+    <list default="true" id="b7a9616e-2f33-4e5c-b000-002272a7f34f" name="Changes" comment="git test from home!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ZogGotSchooled"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="fe74604b-2d17-4472-a163-a4c14cbd4e71" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ZogGotSchooled/JavaOOP.git",
+    "accountId": "fe74604b-2d17-4472-a163-a4c14cbd4e71"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,7 +58,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "Z:/School/CS30/JavaOOP",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,6 +96,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730137053112</updated>
     </task>
+    <task id="LOCAL-00001" summary="git test from home!">
+      <option name="closed" value="true" />
+      <created>1732654037693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732654037693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git test from home!" />
+    <option name="LAST_COMMIT_MESSAGE" value="git test from home!" />
   </component>
 </project>
