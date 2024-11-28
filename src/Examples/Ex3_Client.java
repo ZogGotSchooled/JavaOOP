@@ -74,7 +74,7 @@ public class Ex3_Client {
         return schlongSize;
     }
 
-    public boolean isHasDog() {
+    public boolean getHasDog() {
         return hasDog;
     }
 

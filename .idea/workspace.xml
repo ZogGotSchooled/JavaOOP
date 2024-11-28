@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7a9616e-2f33-4e5c-b000-002272a7f34f" name="Changes" comment="git test from home!" />
+    <list default="true" id="b7a9616e-2f33-4e5c-b000-002272a7f34f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/BattleSnacksLeague.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/As3_Teams/As3_League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/As3_Teams/As3_Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Lawn-ClientData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Lawn-ClientData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/As1_Crops/buirger" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/Ex3_Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Ex3_Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/Ex3_LawnMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/Ex3_LawnMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,27 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ZogGotSchooled"
-  }
-}]]></component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="fe74604b-2d17-4472-a163-a4c14cbd4e71" />
-  </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ZogGotSchooled/JavaOOP.git",
-    "accountId": "fe74604b-2d17-4472-a163-a4c14cbd4e71"
-  }
-}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
   <component name="ProjectId" id="2o4m78lFFHhxKDmpUrxTx1Ez58b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,14 +40,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "Z:/School/CS30/JavaOOP",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "F:/CompSci30_ZJ/OOP_ZJ/data",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -96,19 +81,6 @@
       <option name="presentableId" value="Default" />
       <updated>1730137053112</updated>
     </task>
-    <task id="LOCAL-00001" summary="git test from home!">
-      <option name="closed" value="true" />
-      <created>1732654037693</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1732654037693</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="git test from home!" />
-    <option name="LAST_COMMIT_MESSAGE" value="git test from home!" />
   </component>
 </project>
