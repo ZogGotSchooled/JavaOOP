@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a9616e-2f33-4e5c-b000-002272a7f34f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/Backup-BattleSnacksLeague.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/As3_Teams/As3_Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/As3_Teams/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BattleSnacksLeague.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BattleSnacksLeague.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/As3_Teams/As3_League.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As3_Teams/As3_League.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/As3_Teams/As3_Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As3_Teams/As3_Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +37,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "F:/CompSci30_ZJ/OOP_ZJ/data",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }

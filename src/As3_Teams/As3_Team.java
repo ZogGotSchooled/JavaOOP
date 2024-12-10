@@ -6,7 +6,7 @@ public class As3_Team {
 //    Nickname	City	Division	Aura	Ranking	Funding (millions)
 
 
-    ArrayList<As3_Player> players;
+    ArrayList<As3_Player> players = new ArrayList<>();
 
 
     String nickname;
@@ -37,6 +37,39 @@ public class As3_Team {
 
     public String toString(){
         return "Nickname : " + nickname + " City: " + city  + " Division: " + division  + " Aura: " + aura  + " Ranking: " + ranking  + " Funding: " + funding;
+    }
+
+    public void printTeamAndPlayers(){
+        System.out.println(nickname + "\nPlayers:\n" + playersToString());
+    }
+
+    public String playersToString(){
+        String buildString = "";
+        for (int i = 0; i < players.size(); i++) {
+            buildString = buildString + players.get(i) + "\n";
+        }
+        return buildString;
+    }
+
+    public As3_Player searchForPlayer(String searchName){
+        for (As3_Player player : players){
+            if(player.name.equalsIgnoreCase(searchName)){
+                return player;
+            }
+        }
+        return null;
+    }
+
+    public void printTotalStats(){
+        int totalSnacks = 0;
+        int totalElims = 0;
+
+        for(As3_Player player : players){
+            totalSnacks += player.snacksDevoured;
+            totalElims += player.eliminations;
+        }
+
+        System.out.println(nickname+" - Total snacks scored: "+ totalSnacks + ", Total eliminations:"+totalElims+"\n");
     }
 
     public String getNickname() {
